@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Expand Selection to Multi-Lines",
+        "command": "select_multi_lines"
+    }
+]
