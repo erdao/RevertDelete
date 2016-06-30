@@ -1,0 +1,7 @@
+[
+    {
+        "id": "reverse_delete",
+        "command": "reverse_delete",
+        "caption": "reverse delete"
+    }
+]
